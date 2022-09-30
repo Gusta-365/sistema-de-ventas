@@ -237,7 +237,7 @@ pre {
 .page-header {
   padding: 20px 15px;
   background: #2d3035;
-  color: #8a8d93;
+  color: #ffffff;
   margin-bottom: 30px;
 }
 
@@ -718,9 +718,9 @@ nav.navbar .dropdown .dropdown-menu.active {
 */
 nav#sidebar {
   width: 280px;
-  background: #2d3035;
-  color: #6a6c70;
-  border-right: 1px solid #34373d;
+  background: #5a5757;
+  color: #000000;
+  border-right: 1px solid #ffffff;
   /* shrinked navbar */
 }
 
@@ -732,7 +732,7 @@ nav#sidebar a {
 
 
 nav#sidebar a[aria-expanded="true"] {
-  background: #34373d;
+  background: #f0f0f0;
 }
 
 
@@ -1218,7 +1218,7 @@ nav#sidebar.shrinked a[aria-expanded="true"]::after {
   height: 30px;
   line-height: 30px;
   border-radius: 50%;
-  color: #fff;
+  color: rgb(0, 0, 0);
   position: absolute;
   bottom: -5px;
   right: -5px;
